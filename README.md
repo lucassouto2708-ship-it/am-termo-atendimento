@@ -1,6 +1,6 @@
 # Termo de Atendimento · AM Santos
 
-Sistema Integrado de Gestão de Atendimentos e Termos, da **AM Santos Consultoria**.
+Sistema Integrado de Gestão de Atendimentos e Termos, da **AM Santos Assessoria Tributária**.
 
 Os servidores registram atendimentos, geram um link de assinatura, mandam pelo WhatsApp e o responsável assina na tela do celular. Depois de assinado, o termo fica **travado para sempre**: ninguém altera, nem o administrador.
 

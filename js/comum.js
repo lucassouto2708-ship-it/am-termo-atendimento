@@ -98,9 +98,9 @@ function htmlDocumento(t, opcoes = {}) {
   return `
   <div class="documento">
     <div class="doc-cabecalho">
-      <img class="doc-logo" src="img/logo.png" alt="AM Santos Consultoria">
+      <img class="doc-logo" src="img/logo.png" alt="AM Santos Assessoria Tributária">
       <div class="doc-empresa">
-        <strong>${esc((CFG?.EMPRESA || "AM Santos Consultoria").toUpperCase())}</strong>
+        <strong>${esc((CFG?.EMPRESA || "AM Santos Assessoria Tributária").toUpperCase())}</strong>
         <small>Assessoria tributária, patrimônio público e gestão de frotas</small>
         <div class="doc-titulo">TERMO DE ATENDIMENTO</div>
       </div>
